@@ -12,5 +12,4 @@ Brian Fabian sanchez
 oscar armando godoy
 Yorgueson Matasea Tangarife
 Jorge Andrés Cerón Peñaloza
-Jesus Enrique Rodriguez mendoza
-David Alexander Caicedo Salazar
+Jesus Enrique Rodriguez mendozaDavid Alexander Caicedo Salazar
